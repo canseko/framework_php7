@@ -1,0 +1,10 @@
+--KEY--
+
+Line1
+
+--KEY--
+
+Line2
+
+--# vim: et sw=4 sts=4
+
